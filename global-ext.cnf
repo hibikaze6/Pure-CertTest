@@ -1,0 +1,8 @@
+basicConstraints = CA:FALSE
+keyUsage = nonRepudiation, digitalSignature, keyEncipherment
+extendedKeyUsage = serverAuth, clientAuth
+subjectAltName = @alt_names
+
+[alt_names]
+DNS.1 = flashblade1.testdrive.local
+IP.1 = 10.255.8.20
