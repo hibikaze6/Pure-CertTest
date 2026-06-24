@@ -1,3 +1,6 @@
+0. https://package.cosmian.com/kms/5.24.0/windows/x86_64/non-fips/static-openssl/
+0. https://slproweb.com/products/Win32OpenSSL.html
+
 --- Root CA ---
 
 1. openssl genrsa -out ca.key 4096
